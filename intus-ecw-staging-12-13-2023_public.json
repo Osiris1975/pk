@@ -1,14 +1,15 @@
 {
-  "keys": {
-    "alg": "RS384",
-    "e": "AQAB",
-    "key_ops": [
-      "verify"
-    ],
-    "kid": "intus-ecw-staging-12-13-2023",
-    "kty": "RSA",
-    "n": "hSi9B9ARsoTacQDApJFmCd_KypcLePZ6YQq5FKtr6P9gnZx_POuFMitBijsi8IYNqCsZ6uM6nlIS1AfbTsfS-7fIZ0hX29oCs9i-Pic462jOEDlutl5Wo-YPI4SgZpoDJYU8BZQDADBQ0sOyrVHiQY9mUZfACqzb9KygqKKos1T7DtA-AbWfvlEymnqxhoEhGJXphjYpzopvZdSQV68pi3g3k5-AWqrVVQFNQWOswY__OgWI2I2YvmZGnfnzOGJsQ4D9moz-LsE2dpx3rbGBxaJAZsgUBI_2liQqpFV-uSos1eiiPoLH0uFqArSOiFCLfI4lghapTFHZslzbLYtMFw",
-    "use": "sig"
-  }
+  "keys": [
+    {
+      "alg": "RS384",
+      "e": "AQAB",
+      "key_ops": [
+        "verify"
+      ],
+      "kid": "intus-ecw-staging-12-13-2023",
+      "kty": "RSA",
+      "n": "hSi9B9ARsoTacQDApJFmCd_KypcLePZ6YQq5FKtr6P9gnZx_POuFMitBijsi8IYNqCsZ6uM6nlIS1AfbTsfS-7fIZ0hX29oCs9i-Pic462jOEDlutl5Wo-YPI4SgZpoDJYU8BZQDADBQ0sOyrVHiQY9mUZfACqzb9KygqKKos1T7DtA-AbWfvlEymnqxhoEhGJXphjYpzopvZdSQV68pi3g3k5-AWqrVVQFNQWOswY__OgWI2I2YvmZGnfnzOGJsQ4D9moz-LsE2dpx3rbGBxaJAZsgUBI_2liQqpFV-uSos1eiiPoLH0uFqArSOiFCLfI4lghapTFHZslzbLYtMFw",
+      "use": "sig"
+    }
+  ]
 }
-
