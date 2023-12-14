@@ -1,0 +1,15 @@
+{
+  "keys": [
+    {
+      "kty": "RSA",
+      "use": "sig",
+      "key_ops": [
+        "verify"
+      ],
+      "alg": "RS256",
+      "kid": "intus-cei-12-14-2023",
+      "n": "2Wrfq4WHbqrNQlOvb8OzwbbS9klUy7qKxzcNqR4oK-r5hW_hOR25u9-hecTC2HJPJchSv9wjAvpr7Ahq4CwaFW1tY8qxJZyqcL4DSuQAXkTN-L439fU562U_sU1PtySF6p_vHG8JeZULq-5SaQWviNifNpHQxo0JjlehEGu1_rsDab2Pt3SXlP6LBQrtiuRsLfLWw7E25UiYuYe5CITxgcJfsbzqqyXvw5Y5YuvOKnn1VsjlrbWudpjIIrJVfXSDcWu_886jzFtWt_aQHDfRR1hl3nY6SWdGiFacUKS87FFBC-CtSw2sWpXBdObLXh3bsih_TZfi0yw9uVLla51Wyw",
+      "e": "AQAB"
+    }
+  ]
+}
