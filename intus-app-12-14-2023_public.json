@@ -10,17 +10,6 @@
       "kid": "intus-ecw-12-14-2023",
       "n": "3UJF-tnsZx-XL8cT6ED4jc61Hguhd5NwB_1KLHwR7YKM3OZ3ljB6h2eoY8pQXWjimE7bssAjE0XPiisxkHCGows13jKbD2q928jXK0oyPYVPOl03r3akmQS58Jn4qx5T_dp12FVo_PA9Yy6l-SfPjHUZfopGRxqchdFipt636AGbR9XN0_E3I4vsSv_iri1VJRkuKyndPtp65E0UMc0xFi3vLgYjLePwOUoIIPwMxgw_G5SnqRdOxfrdYNqie_kOKWPpR0Vvl9KbvV6w82vrSNjqqE-GxjBDGd2uF-Ps5y0g9iUTh_HqmvcOWeXfQJ0IBpc2QlKRSekiLFX6J0tu-Q",
       "e": "AQAB"
-    },
-    {
-      "kty": "RSA",
-      "use": "sig",
-      "key_ops": [
-        "verify"
-      ],
-      "alg": "RS256",
-      "kid": "intus-cei-12-14-2023",
-      "n": "uV1Cg18qXjEmo2VLAaY794_DIurWCH5YKPGaa5asv-PKdarhZJ_OH2f1Cw4Dywmygo0gfuiYCZyE8_LNqzDfW2SvQDjsK3-3EDV05Kw2h7FhsA2iu-EpYHPw4ZyTvYNmF2goYVoOoIxVsmco3RAYWf0gxuHajn-yfZ2V0acb_WBhVnq5eAT9JXyXl_lAivGrqBqDzxnEVVu3Brn5WQPt9ZrtozR1VOpJfmgO3nKSvMqxlbZBX8vvRg-x7ODYyrK1dxzl_Bp5uEMQ86c4m3Qm-BnsvV_0auscpKki-0PAUzp3cCWv3Y7LWjUBPnGJTY9L7irFNQ7JvIFGnDX3VXseqw",
-      "e": "AQAB"
     }
   ]
 }
